@@ -4,8 +4,10 @@ A sign language classification system built using transfer learning with convolu
 
 This project compares two pretrained CNN architectures, ResNet50 and MobileNetV2, to evaluate their performance on a domain-shifted dataset of low-resolution grayscale images, despite their original training on the ImageNet dataset.
 
-Live demo! https://sign-language-classifier-app.vercel.app/
-** Model not yet trained on the dataset that can predict well on webcam feed.
+Live demo! https://sign-language-classifier-app.vercel.app/  
+
+> [!NOTE]
+> Best results with a plain background, good lighting, and centered hand. Model was trained on controlled studio images — real-world performance may vary.
 
 ## Dataset
 
