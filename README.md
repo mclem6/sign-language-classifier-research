@@ -28,10 +28,14 @@ Applying model-specific preprocessing functions (normalization and scaling) to e
 ### ResNet50 best model results
 <img width="633" height="297" alt="image" src="https://github.com/user-attachments/assets/484f8a84-fce1-4db3-9b42-4faf9f206941" />  
 
+## Test results 
+<img width="1034" height="115" alt="image" src="https://github.com/user-attachments/assets/07b7c4a0-2b0d-4531-accd-6f1cbc911968" />
+
 ### Inference Test results
 <img width="622" height="462" alt="image" src="https://github.com/user-attachments/assets/88eebf1a-2fdc-45e7-8b22-28f0b44d195a" />  
 <br>
-MobileNetV2 achieved 99.2% test accuracy vs ResNet50 at 98.4%, with average inference time of  0.0893 seconds vs 0.1187 seconds, respectively.
+
+MobileNetV2 achieved 99.1% test accuracy vs ResNet50 at 98.9%, with average inference time of 0.0893 seconds vs 0.1187 seconds, respectively.
 
 
 ## Key Insight
